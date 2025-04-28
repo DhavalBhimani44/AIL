@@ -1,0 +1,13 @@
+# Edges: node1,node2,weight
+A,B,2
+A,E,5
+B,C,3
+B,E,2
+C,D,1
+D,E,4
+# Heuristics: node,h_value
+A,10
+B,8
+C,5
+D,3
+E,0
